@@ -1,2 +1,2 @@
 # RUAP-Projekt
-labosi iz RUAP
+Moj repozitorij za kolegij RUAP
