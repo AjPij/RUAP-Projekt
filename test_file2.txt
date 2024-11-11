@@ -1,0 +1,2 @@
+this is test file 2 
+this file also contains some plain text lol
